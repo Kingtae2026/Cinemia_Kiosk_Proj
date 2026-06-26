@@ -2,6 +2,8 @@
 
 > Windows Forms(C#)로 개발한 무인 영화관 키오스크 | 1인 개발
 
+![메인 화면](docs/screenshots/main_screen.png)
+
 ---
 
 ## 개요
@@ -111,8 +113,6 @@ private void timer1_Tick(object sender, EventArgs e)
                                                                 └─ 티켓 발매
   └─ 매점 주문 ──→ 메뉴 선택 → 결제
 ```
-
-![메인 화면](docs/screenshots/main_screen.png)
 
 ---
 
